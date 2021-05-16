@@ -1,1 +1,4 @@
-# WeatherAppVer1
+# WeatherApp using SwiftUI
+- Using API: https://openweathermap.org/
+- Json
+- Combine framework
